@@ -1,5 +1,5 @@
 # CS210-Final project
-Name: Aiden Synkova
+Name: Phoenix Synkova
 </p> Course: CPSC 210 2016W1
 
 *************************************************************************
